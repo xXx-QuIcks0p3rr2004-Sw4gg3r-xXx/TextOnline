@@ -1,1 +1,3 @@
-- Vertriebssteuerung- Vertriebstestmanagement- Kooperationsmanagement- Kundenkontakt- Qualitätssicherung- Wissensmanagement- Projektmanagement- Anforderungsmanagement- DV-Koordination- Produktentwicklung non-Commodity- Produktentwicklung Commodity
+Produktmanagement/-Entwicklung, VertriebssteuerungKooperationsmanagement,  - SAP CRM / SK-117 - PAT, VPP, Bloola, EasyMap... / SK-130
+Systematische Analyse / Reporting - SAP BI, BEx, Crystal Reports, ... / SK-116
+Portfoliomanagement - BelVis PFM / SK-103
