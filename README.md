@@ -1,1 +1,1 @@
-Der IT-Service "Bilanzierung" unterstützt die Bilanzierung von Energiemengen für die Rollen Übertragungsnetzbetreiber (ÜNB), Verteilnetzbetreiber (VNB) und Bilanzkreisverantwortlicher (BKV) in der Stromwirtschaft, sowie den Rollen Marktgebietsverantwortlicher (MGV), Ein- und Ausspeisenetzbetreiber (ANB und ENB) und Bilanzkreisverantwortlicher (BKV) in der Gaswirtschaft.
+Unterstützung der Strom- /Gasbilanzierung (Belvis, SK-103 ; SAP IS-U EDM, SK-119)- Mehr-/Mindermengenermittlung - Melden von Allokationen im Netz, Vergleich Einspeisung und Ausspeisung
