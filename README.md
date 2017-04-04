@@ -1,1 +1,2 @@
-Unterstützung der Strom- /Gasbilanzierung (Belvis, SK-103 ; SAP IS-U EDM, SK-119)- Mehr-/Mindermengenermittlung - Melden von Allokationen im Netz, Vergleich Einspeisung und Ausspeisung
+Bereitstellung eines Dienstes zum Load Balancing auf IP-Adressebene, z.B. für HTTP, HTTPS, VMWare View, Exchange, Lync.
+Dieser Dienst stellt einen "Server" bereit, welcher Anfragen auf mehrere bestehende Server verteilt. So können mehrere Server unter einer einzigen IP-Adresse bzw. unter einem Hostnamen erreichbar sein. Dies kann zur Lastverteilung oder zur Herstellung von Hochverfügbarkeit genutzt werden, sofern die dahinterliegenden Server bzw. die Applikationen es unterstützen.
