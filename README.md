@@ -1,4 +1,1 @@
--Bereitstellung einer Lösung zur: Erfassung und Auswertung von Meldungen, Störungen, Schäden und Versorgungsunterbrechungen in Netzen (SK-131, InterAss)
--Bereitstellung einer Lösung zur: Verwaltung von Geschäftspartnerbeziehungen im Sinne eines effizienten Adress- und Kontaktmanagements (SK-143, CobraCRM)
-- Bereitstellung einer Lösung zum Dokumentenmanagement (SK-144, ContentServer (Opentext))
-- Abwicklung der betriebswirtschaftlich notwendigen Tätigkeiten zur Beschaffung und Verwaltung von IT-Komponenten, die durch die RNG eigenständig betrieben werden. z.B. erstellen von BANFen und IP's (SK-166)
+Der IT-Service "Bilanzierung" unterstützt die Bilanzierung von Energiemengen für die Rollen Übertragungsnetzbetreiber (ÜNB), Verteilnetzbetreiber (VNB) und Bilanzkreisverantwortlicher (BKV) in der Stromwirtschaft, sowie den Rollen Marktgebietsverantwortlicher (MGV), Ein- und Ausspeisenetzbetreiber (ANB und ENB) und Bilanzkreisverantwortlicher (BKV) in der Gaswirtschaft.
