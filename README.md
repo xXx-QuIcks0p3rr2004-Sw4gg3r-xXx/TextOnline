@@ -1,1 +1,2 @@
-Der Service unterstützt die Planung und die Instandhaltung von dezentralen Energiegewinnungsanlagen z.B. Windparks oder dezentrale BHKW.
+- Planung und Optimierung von Windparks- Instandhaltungsplanung dezentraler BHKW
+(WindPro, TOM, SK-208)
