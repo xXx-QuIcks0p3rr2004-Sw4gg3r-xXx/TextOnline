@@ -1,1 +1,1 @@
-Der IT-Service umfasst Lösungen die den Leistungspartner bei den SupportProzessen des Vertriebs, wie z.B. der modularen Produktentwicklung und -Verwaltung unterstützen.
+- Vertriebssteuerung- Vertriebstestmanagement- Kooperationsmanagement- Kundenkontakt- Qualitätssicherung- Wissensmanagement- Projektmanagement- Anforderungsmanagement- DV-Koordination- Produktentwicklung non-Commodity- Produktentwicklung Commodity
