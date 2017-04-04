@@ -1,1 +1,1 @@
-Verfügbarkeit:   99%Betriebszeit:    Mo - Fr    00:00 - 23:59 Uhr                 Sa/So/FT   00:00 - 23:59 UhrSupport-Zeit:    Mo- Fr     07:30 - 17:30 Uhr                 Sa/So/FT   ---Kontinuität:     tbdKapazität:       tbdIT-Sicherheit:   tbdWartungsfenster: 4 Wartungstermine IKT Produktionszentrum p.a.                 2 Produktivsetzungen Releasepakete p.a.Anwenderzahl:
+Der IT-Service umfasst Lösungen die den Leistungspartner bei den SupportProzessen des Vertriebs, wie z.B. der modularen Produktentwicklung und -Verwaltung unterstützen.
