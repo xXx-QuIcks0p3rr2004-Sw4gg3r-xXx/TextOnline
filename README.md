@@ -1,1 +1,2 @@
-Der IT-Service unterstützt die RNG bei der Qualifizierung von fachlichen Anforderungen für die Auswahl geeigneter IT-Systeme und -Anwendungen und stellt Systeme für Dokumentenmanagement, Geschäftspartnermanagement und Netzmanagement bereit.
+Der Service begleitet den kaufmännischen IT-Auswahl-, IT-Beschaffungs- und IT-Wartungsprozess der RNG.
+Prozess zur Meldung von Versorgungsunterbrechungen an die BNetzA
